@@ -1,6 +1,8 @@
 # Pong inspired game in p5js
 [Pong](https://benjaminfox1.github.io/Pong/)
 
+```JavaScript
+
 var myRect;
 var mycirc;
 var speedx;
@@ -108,3 +110,4 @@ function keyPressed () {
     myRect.length=myRect.length+10;
   } 
 }
+```
