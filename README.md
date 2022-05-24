@@ -1,5 +1,4 @@
 # Pong inspired game in p5js
-[Pong](https://benjaminfox1.github.io/Pong/)
 
 ```JavaScript
 
