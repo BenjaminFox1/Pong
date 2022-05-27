@@ -1,6 +1,10 @@
 # Pong inspired game in p5js
 
-https://benjaminfox1.github.io/Pong/
+Pong inspired, https://benjaminfox1.github.io/Pong/
+
+<details><summary>Code Below</summary>
+<p>
+
 
 ```JavaScript
 
@@ -112,3 +116,5 @@ function keyPressed () {
   } 
 }
 ```
+ </details>
+  </p>
