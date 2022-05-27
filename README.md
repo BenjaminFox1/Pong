@@ -1,5 +1,7 @@
 # Pong inspired game in p5js
 
+https://benjaminfox1.github.io/Pong/
+
 ```JavaScript
 
 var myRect;
